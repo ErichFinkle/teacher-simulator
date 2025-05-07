@@ -37,3 +37,6 @@ It didn't help that I've also been teaching Python to my high school students th
 
 ## Known issues:
 As of now, the only problem I couldn't figure out how to fix was how to handle intentionally messed up input for the Day/AM/PM cycle. 
+
+  If the user enters a hybrid input that starts with a number, like 3asd, the program reads the number, pulls the correct action, then automatically says they've made an invalid input for the next action.
+  I tried a few things with getline, but wasn't able to figure it out. So, this still exists, but as long as the user enters a number that's intentional, it works fine.
