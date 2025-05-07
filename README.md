@@ -13,7 +13,7 @@ Teacher Simulator (Final Project)
 
 ## Description:
 This project is a C++ text-based game where the player fills the role of a high school teacher, choosing actions each day that affect their morale, fatigue, and reputation.
-To mix things up, random events can occur, which also affect fatigue, morale, and reputaiton.  The game ends if morale or reputation reaches zero, causing the teacher to quit or be fired, respectively.
+To mix things up, random events can occur, which also affect fatigue, morale, and reputation.  The game ends if morale or reputation reaches zero, causing the teacher to quit or be fired, respectively.
 
 ## Creation process:
 This project was built using OnlineGDB's C++ compiler and runtime environment. Once complete, I downloaded the files and uploaded them here to GitHub.
