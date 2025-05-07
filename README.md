@@ -9,7 +9,6 @@ Teacher Simulator (Final Project)
 
 ## Authors:
  - Erich Finkle - Programmer
- - Christian De Loa - Bug Tester (and extremely patient listener to my venting)
 
 ## Description:
 This project is a C++ text-based game where the player fills the role of a high school teacher, choosing actions each day that affect their morale, fatigue, and reputation.
@@ -18,7 +17,7 @@ To mix things up, random events can occur, which also affect fatigue, morale, an
 ## Creation process:
 This project was built using OnlineGDB's C++ compiler and runtime environment. Once complete, I downloaded the files and uploaded them here to GitHub.
 As an aside, I've never used GitHub before, so I'm sure it's very unprofessional, but hopefully everything works.
-I confirmed that everything worked correctly on OnlineGDB and my friend was able to run it in VSC, so I figure that means we're all good!
+I confirmed that everything worked correctly on OnlineGDB and my friend Christian was able to run it in VSC, so I figure that means we're all good!
 
 ## Files:
 The game is composed of three files:
