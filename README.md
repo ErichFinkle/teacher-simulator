@@ -7,7 +7,7 @@ CISPROG-2, Chaffey College Spring 2025
 ## Project Title:
 Teacher Simulator (Final Project)
 
-## Authors:
+## Author:
  - Erich Finkle - Programmer
 
 ## Description:
